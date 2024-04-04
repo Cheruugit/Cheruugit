@@ -14,7 +14,6 @@
 ---
 
 <h2 align="left">About Me:</h2>
-<p align="left">My journey into data science is compelling and showcases my determination and enthusiasm for the field. Here's a condensed version of my introduction:</p>
 
 <p align="left">Originally i had delved into web development in both frontend and backend technologies, where I craved a new challenge. This led me to discover the captivating world of data science during my third year of computer science studies.</p>
 
