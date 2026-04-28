@@ -42,7 +42,7 @@ I turn those questions into trusted, decision-ready intelligence.
 
 I started in web development before discovering data science in my third year of Computer Science at Kirinyaga University. The Women Techsters Tech4Dev Fellowship gave me both the technical foundation and the community to grow — and since then I have not stopped building.
 
-Today I work on real-world analytical problems across East Africa and the Gulf — from platform intelligence for government marketplaces to financial analytics for banking clients. I believe that good data work is not just technical — it is about asking the right questions, being honest about what the data does and does not say, and building things that people can actually rely on.
+Today I work on real-world analytical problems across East Africa and the Gulf, from intelligence for government platforms to financial analytics for banking clients. I believe that good data work is not just technical, it is about asking the right questions, being honest about what the data does and does not say, and building things that people can actually rely on.
 
 ---
 
