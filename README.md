@@ -1,7 +1,7 @@
 # Hi there, I'm Winnie Jeruto 👋
 ### A BI & Data Analyst    · Nairobi, Kenya    · She/Her
 
-I am a Business Intelligence & Data Analyst with 2+ years of experience turning complex, multi-source data into trusted insights that drive strategic decisions. I work across the full analytics stack from ETL pipeline design and data modelling to executive dashboards and predictive modelling for clients in financial services, government, and digital platform sectors across East Africa and the Gulf. In practice, that means helping organisations answer the questions that matter most:
+I am a Results Oriented Business Intelligence & Data Analyst with 2+ years of experience turning complex, multi-source data into trusted insights that drive strategic decisions. I work across the full analytics stack from ETL pipeline design and data modelling to executive dashboards and predictive modelling for clients in financial services, government, and digital platform sectors across East Africa and the Gulf. In practice, that means helping organisations answer the questions that matter most:
 
 <ul align="left">
   <li>Are our operations running efficiently?</li>
