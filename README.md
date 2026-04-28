@@ -1,58 +1,65 @@
-### Hi there 👋 , I'm Winnie Jeruto
+# Hi there, I'm Winnie Jeruto 👋
+### A BI & Data Analyst    · Nairobi, Kenya    · She/Her
 
-<h3>A passionate data scientist from Kenya</h3>
+I am a Business Intelligence & Data Analyst with 2+ years of experience turning complex, multi-source data into trusted insights that drive strategic decisions. I work across the full analytics stack from ETL pipeline design and data modelling to executive dashboards and predictive modelling for clients in financial services, government, and digital platform sectors across East Africa and the Gulf. In practice, that means helping organisations answer the questions that matter most:
+
 <ul align="left">
-  
-  <li>🔭 I’m currently working on <strong>end to end projects</strong></li>
-  <li>🌱 I’m currently learning exploratory data analysis with Python, machine learning and deep learning.</li>
-  <li>👯 I’m looking to collaborate on <strong>Data Science projects</strong></li>
-  <li> 👯 I’m looking to collaborate on<strong> Data analysis and Data Science Projects</strong></li>
-  <li>📫 How to reach me: <strong>winyjeruto34@gmail.com</strong></li>
-  <li>😄 Pronouns: Her/She</li>
+  <li>Are our operations running efficiently?</li>
+  <li>Are customers getting the service they came for?</li>
+  <li>Where are people dropping off and why?</li>
+  <li>Which processes are still manual when they should not be?</li>
 </ul>
 
----
-
-<h2 align="left">About Me:</h2>
-
-<p align="left">Originally i had delved into web development in both frontend and backend technologies, where I craved a new challenge. This led me to discover the captivating world of data science during my third year of computer science studies.</p>
-
-<p align="left">Driven by curiosity and a desire to expand my skill set, I immersed myself in Python programming, leveraging resources like the "Big Book of Small Python Projects." Recognizing the value of mentorship, I joined the Women Techsters' Tech4Dev program, where I found not only guidance but also a supportive community.</p>
-
-<p align="left">Today, armed with a strong foundation in computer science and fueled by my passion for data-driven insights, I am excited to continue my journey in data science, eager to make meaningful contributions to this dynamic field.</p>
+I turn those questions into trusted, decision-ready intelligence.
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://kaggle.com/winniiecheruto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="winniiecheruto" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/cheruu_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cheruu_23" height="30" width="40" /></a>
-</p>
+### What I'm working on
+
+- 🔭 Building end-to-end BI and analytics solutions for enterprise clients at **Digital Qatalyst** — spanning Khalifa Fund's EJP Marketplace, Saudi Investment Bank, and NEOM initiatives
+- 🌱 Deepening expertise in advanced SQL, dbt, Snowflake, and cloud-native data architectures
+- 🛠️ Building portfolio projects in SME lending analytics, e-commerce churn prediction, and Kenya public health intelligence
+- 👯 Open to collaborating on data analytics, BI infrastructure, and African market data projects
+- 📫 winyjeruto193@gmail.com
+
+---
+
+### Core stack
+
+`Power BI` `SQL` `Python` `Looker` `Tableau` `BigQuery` `Databricks` `Excel Advanced` `scikit-learn` `Pandas` `Streamlit` `PostgreSQL` `MySQL` `AWS` `SharePoint` `Dataverse`
+
+---
+
+### Certifications
+
+- 🏅 Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+- ☁️ AWS Certified Cloud Practitioner
+- 🎓 Certificate in Data Science & AI — Women Techsters Fellowship, Class of 2024
+
+---
+
+### About me
+
+I started in web development before discovering data science in my third year of Computer Science at Kirinyaga University. The Women Techsters Tech4Dev Fellowship gave me both the technical foundation and the community to grow — and since then I have not stopped building.
+
+Today I work on real-world analytical problems across East Africa and the Gulf — from platform intelligence for government marketplaces to financial analytics for banking clients. I believe that good data work is not just technical — it is about asking the right questions, being honest about what the data does and does not say, and building things that people can actually rely on.
 
 ---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 </p>
-
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cheruugit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cheruugit&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cheruugit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cheruugit&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph" />
 </div>
-
-###
-
-
-
-
-
-
